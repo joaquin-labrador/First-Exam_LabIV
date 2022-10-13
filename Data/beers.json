@@ -1,0 +1,37 @@
+[
+    {
+        "beerId": "1",
+        "beerTypeId": "1",
+        "name": "Budweiser",
+        "IBU": 10,
+        "price": 400
+    },
+    {
+        "beerId": 2,
+        "beerTypeId": "1",
+        "name": "Andes",
+        "IBU": "123",
+        "price": "2131"
+    },
+    {
+        "beerId": 3,
+        "beerTypeId": "3",
+        "name": "Quilmes",
+        "IBU": "1",
+        "price": "200"
+    },
+    {
+        "beerId": 4,
+        "beerTypeId": "2",
+        "name": "Andes",
+        "IBU": "11",
+        "price": "500"
+    },
+    {
+        "beerId": 5,
+        "beerTypeId": "4",
+        "name": "Antares",
+        "IBU": "20",
+        "price": "230"
+    }
+]
